@@ -1,2 +1,2 @@
 # Summer-Code
-This is the Summer Code for 2025
+A Quick Calculator Page
